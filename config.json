@@ -1,0 +1,19 @@
+{
+  "Status": {
+    "healthy_status": {
+      "min_range": 0,
+      "max_range": 70,
+      "status": "Healthy"
+    },
+    "risky_status": {
+      "min_range": 70,
+      "max_range": 80,
+      "status": "Risky"
+    },
+    "unhealthy_status": {
+      "min_range": 80,
+      "max_range": 100,
+      "status": "Unhealthy"
+    }
+  }
+}
